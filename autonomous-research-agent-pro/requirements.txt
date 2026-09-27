@@ -1,0 +1,14 @@
+groq
+tavily-python
+langgraph
+python-dotenv
+pydantic
+pydantic-settings
+fastapi
+uvicorn[standard]
+httpx
+beautifulsoup4
+reportlab
+typer
+rich
+pytest
