@@ -1,6 +1,8 @@
+
 groq
 tavily-python
 langgraph
+langchain-groq
 python-dotenv
 pydantic
 pydantic-settings
